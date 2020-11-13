@@ -1,0 +1,103 @@
+/* ここから下に記載していく */
+.taitle{
+  font-size: 100px;
+  text-align: center;
+  margin: 30px 0;
+
+}
+
+.kekka_pic{
+  display: flex;
+  justify-content:center;
+  text-align: center;
+  margin:auto;
+  font-size: 60px;
+  width: 100%;
+}
+
+.kekka{
+text-align: center;
+font-size: 100px;
+margin: 0 0 0 0 ;
+
+}
+
+.jibun{
+  margin: 0 0 0 0;
+
+}
+
+.kekka_1{
+ margin: 0 30px 0 0;
+
+}
+
+.hantei{
+ margin: auto;
+ text-align: center;
+ font-size: 80px;
+
+}
+.button{
+ text-align: center;
+ border: 1px solid rgb(112, 116, 112);
+ width: 100px;
+ margin: 0 auto 50px;
+ padding: 8px 8px;
+ border-radius: 0.67em;
+ background-color: snow;
+}
+
+.ba-{
+display: flex;
+justify-content: center;
+}
+
+.button_1{
+text-align: center;
+border: 1px solid rgb(112, 116, 112);
+width: 100px;
+padding: 8px 8px;
+border-radius: 0.67em;
+background-color: snow;
+margin: 0 20px 30px 0;
+}
+.button_2{
+  text-align: center;
+  border: 1px solid rgb(112, 116, 112);
+  width: 100px;
+  padding: 8px 8px;
+  border-radius: 0.67em;
+  background-color: snow;
+  margin: 0 20px 30px 0;
+  }
+  .button_3{
+    text-align: center;
+    border: 1px solid rgb(112, 116, 112);
+    width: 100px;
+    padding: 8px 8px;
+    border-radius: 0.67em;
+    background-color: snow;
+    margin: 0 20px 30px 0;
+    }
+
+.button:hover {
+  color: #ffffff;
+  background-color: #000000;
+  cursor: pointer;
+}
+.button_1:hover {
+  color: #ffffff;
+  background-color: #000000;
+  cursor: pointer;
+}
+.button_2:hover {
+  color: #ffffff;
+  background-color: #000000;
+  cursor: pointer;
+}
+.button_3:hover {
+  color: #ffffff;
+  background-color: #000000;
+  cursor: pointer;
+}
